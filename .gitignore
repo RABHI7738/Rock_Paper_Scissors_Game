@@ -1,0 +1,16 @@
+*.obj
+*.exe
+*.user
+*.pdb
+*.idb
+*.log
+*.ilk
+*.tlog
+*.suo
+*.vssscc
+*.cache
+*.dll
+x64
+in[Bb]
+bj[0o]
+package
