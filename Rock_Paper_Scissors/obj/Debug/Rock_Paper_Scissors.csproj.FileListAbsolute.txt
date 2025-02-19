@@ -1,0 +1,14 @@
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\Rock_Paper_Scissors.exe.config
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\Rock_Paper_Scissors.exe
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\Rock_Paper_Scissors.pdb
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.csproj.AssemblyReference.cache
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.Properties.Resources.resources
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.RoundsNumber.resources
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.csproj.GenerateResource.cache
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.exe
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.pdb
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.ResultForm.resources
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\bin\Debug\Guna.UI2.dll
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Pap.69C1710F.Up2Date
+C:\Users\YEP\Desktop\Forms\Rock_Paper_Scissors\Rock_Paper_Scissors\obj\Debug\Rock_Paper_Scissors.MainForm.resources
